@@ -1,0 +1,13 @@
+ - [ ] Section 08: Calorie Counting App 0/12 | 59min
+	 - [ ] 35. Planning | 3min
+	 - [ ] 36. Planning - Data Model | 5min
+	 - [ ] 37. Planning - View Functions | 2min
+	 - [ ] 38. Planning - Update Functions | 2min
+	 - [ ] 39. Starter / Boiler Plate | 7min
+	 - [ ] 40. Calorie Counting App - Form View | 8min
+	 - [ ] 41. Calorie Counting App - Updates | 7min
+	 - [ ] 42. Calorie Counting App - Input Updates | 8min
+	 - [ ] 43. Calorie Counting App - Form Save | 4min
+	 - [ ] 44. Calorie Counting App - Tableview challenge review | 3min
+	 - [ ] 45. Calorie Counting App - Delete Meals | 4min
+	 - [ ] 46. Calorie Counting App - Edit Meals | 7min
